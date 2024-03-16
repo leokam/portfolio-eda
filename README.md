@@ -12,7 +12,11 @@ In the presentation notebook you can see my stakeholder presentation.
 
 ![](price_avg_std.png)
 
+---
+
 ![](price_v_poverty.png)
+
+---
 
 ![](sd_cutoff.png)
 
