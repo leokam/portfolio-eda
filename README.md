@@ -24,4 +24,5 @@ pyenv local 3.11.3
     source .venv/bin/activate
     pip install --upgrade pip
     pip install -r requirements.txt
+    unzip data.zip
 ```
