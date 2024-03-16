@@ -1,0 +1,7 @@
+jupyterlab==4.0.1
+matplotlib==3.7.1
+pandas==2.0.2
+jupyterlab-dash==0.1.0a3
+seaborn==0.12.2
+python-dotenv==1.0.0
+missingno==0.5.2
